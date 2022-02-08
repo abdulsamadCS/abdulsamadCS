@@ -20,7 +20,7 @@
 
 I am a full-stack software engineer. I google alot.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a software engineer, I enjoy using my obsessive attention to detail and love for making things that change the world. I make websites, apps, bots—a bunch of other stuff. I build stuff that makes other people’s lives better. That’s really cool to me because it feels fundamentally important.
 
 ### BE NICE TO ME. YOU MAY NEED TECH SUPPORT SOME DAY!  &nbsp; 
 
