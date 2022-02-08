@@ -16,5 +16,5 @@ jobs:
     name: Update Quote Readme
     runs-on: ubuntu-latest
     steps:
-      - uses: abdulsamadcs/quote-readme@main
+      - uses: abdulsamadcs/abdulsamadcs@main
   
