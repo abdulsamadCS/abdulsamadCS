@@ -2,11 +2,11 @@
 
 ### Hi there, I'm <a href="#" target="_blank">Abdul Samad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="PNG" src="https://github.com/abdulsamadcs/abdulsamadcs/blob/main/my-code-works.png?raw=true" width="300" height="300"/>
+<img align="right" alt="PNG" src="https://github.com/abdulsamadcs/abdulsamadcs/blob/main/my-code-works.png?" width="300" height="300"/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ab-samad)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](abdulsamad.cs15@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulsamad.cs15@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mavelloussamad)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/abdulsamadCS)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11293161/abdulsamad)
