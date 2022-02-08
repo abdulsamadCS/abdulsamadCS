@@ -2,7 +2,7 @@
 
 ### Hi there, I'm <a href="#" target="_blank">Abdul Samad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="PNG" src="https://github.com/abdulsamadcs/abdulsamadcs/blob/main/my-code-works.png?raw=true" width="400" height="400"/>
+<img align="right" alt="PNG" src="https://github.com/abdulsamadcs/abdulsamadcs/blob/main/my-code-works.png?raw=true" width="250" height="300"/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ab-samad)
