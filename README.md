@@ -60,7 +60,7 @@ As a software engineer, I enjoy using my obsessive attention to detail and love 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”— Gene Spafford   ❞</i>
+<i>❝“All parts should go together without forcing.  You must remember that the parts you are reassembling were disassembled by you.  Therefore, if you can’t get them together again, there must be a reason.  By all means, do not use a hammer.”— IBM Manual, 1925  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
