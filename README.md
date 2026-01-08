@@ -60,7 +60,7 @@ As a software engineer, I enjoy using my obsessive attention to detail and love 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
+<i>❝The woman who rented her garage to Larry Page and Sergey Brin in 1998 when they were creating Google later became the CEO of YouTube.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
